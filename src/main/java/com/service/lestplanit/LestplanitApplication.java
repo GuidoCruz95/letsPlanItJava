@@ -6,8 +6,8 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 @SpringBootApplication
 public class LestplanitApplication {
 
-	public static void main(String[] args) {
-		SpringApplication.run(LestplanitApplication.class, args);
-	}
+    public static void main(String[] args) {
+        SpringApplication.run(LestplanitApplication.class, args);
+    }
 
 }
